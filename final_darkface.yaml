@@ -1,0 +1,8 @@
+path: /root/DarkFaceDataset/final_darkface 
+train: /root/DarkFaceDataset/final_darkface/train 
+val: /root/DarkFaceDataset/final_darkface/val
+
+nc: 1
+
+names: ["face"]
+
